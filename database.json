@@ -327,24 +327,28 @@
         "name": "New watch",
         "picUrl": "./img/offer/pngfind.com-iwatch-png-5905139.png",
         "price": 600 , 
+        "offer" : 550,
         "id" : 1
       },
       {
         "name": "New watch",
         "picUrl": "./img/offer/pngfind.com-apple-watch-png-1748084.png",
         "price": 850 , 
+        "offer" : 650,
         "id" : 2
       },
       {
         "name": "New watch",
         "picUrl": "./img/offer/pngfind.com-apple-watch-png-2908029.png",
         "price": 950,
+        "offer" : 850,
         "id": 3
       },
       {
         "name": "New watch",
         "picUrl": "./img/offer/pngfind.com-unboxing-png-4513323.png",
         "price": 500,
+        "offer" : 430,
         "id": 4
       }
     ],
